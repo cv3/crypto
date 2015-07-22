@@ -15,7 +15,7 @@ import (
 	"strconv"
 	"testing"
 
-	"github.com/ScriptRock/crypto/ssh"
+	"github.com/cv3/crypto/ssh"
 )
 
 // startAgent executes ssh-agent, and returns a Agent interface to it.

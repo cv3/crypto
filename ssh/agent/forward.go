@@ -10,7 +10,7 @@ import (
 	"net"
 	"sync"
 
-	"github.com/ScriptRock/crypto/ssh"
+	"github.com/cv3/crypto/ssh"
 )
 
 // RequestAgentForwarding sets up agent forwarding for the session.
